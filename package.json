@@ -1,7 +1,6 @@
 {
   "name": "series-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -13,5 +12,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigPeepo/202301-w3chweSSL-dani-setien.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigPeepo/202301-w3chweSSL-dani-setien/issues"
+  },
+  "homepage": "https://github.com/bigPeepo/202301-w3chweSSL-dani-setien#readme",
+  "description": ""
 }
